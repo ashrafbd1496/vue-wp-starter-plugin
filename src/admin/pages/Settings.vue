@@ -6,16 +6,12 @@
 
 <script>
 export default {
+  name: "Settings",
 
-  name: 'Settings',
-
-  data () {
-    return {
-
-    };
+  data() {
+    return {};
   }
 };
 </script>
 
-<style lang="css" scoped>
-</style>
+<style lang="css" scoped></style>

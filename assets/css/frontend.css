@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Style the hello div */
+.hello[data-v-668e76be] {
+  font-size: 40px;
+  color: red;
+}
+
+/* Style the span within the hello div */
+.hello span[data-v-668e76be] {
+  color: #333;
+  font-weight: bold;
+}
+

@@ -11,6 +11,8 @@
     "build": "webpack -p --mode production"
   },
   "dependencies": {
+    "browser": "^0.2.6",
+    "sync": "^0.2.5",
     "vue": "^2.6.11",
     "vue-router": "^3.4.3"
   },
@@ -18,7 +20,7 @@
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "latest",
     "babel-loader": "^8.1.0",
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^2.29.3",
     "browser-sync-webpack-plugin": "^2.2.2",
     "css-loader": "^3.6.0",
     "file-loader": "^4.3.0",
