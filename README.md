@@ -38,7 +38,6 @@ A WordPress [Vue.js](https://vuejs.org/) starter plugin with required toolbelts 
 
 ## About
 
-Made by [Ashraf Uddin](https://github.com/ashrafbd1496) from [ashrafbd](https://ashrafbd.com).
+Made by [Tareq Hasan](https://github.com/tareq1988) from [weDevs](https://wedevs.com).
 
 _Found anything that can be improved? You are welcome to contribute._
-# vue-wp-starter-plugin
